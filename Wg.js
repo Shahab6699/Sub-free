@@ -1,0 +1,1 @@
+wireguard://cCEb2e9p9NUPykfuIjUMIhNawWMCgX9ymHjhkdFkp3Q%3D@[2606:4700:d1::8a1d:28cd:2b83:a984]:878?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A822b%3Adb14%3A1f31%3Ac9c6%3Ad88e%2F128&reserved=0%2C0%2C0&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#Peyman_WireGuard
